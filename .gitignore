@@ -22,6 +22,7 @@ bin/
 *.iws
 *.iml
 *.ipr
+*.json
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -35,7 +36,3 @@ out/
 
 ### VS Code ###
 .vscode/
-
-
-### PQR JSON Files ###
-!**/src/resources/json
