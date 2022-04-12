@@ -23,6 +23,7 @@ bin/
 *.iml
 *.ipr
 *.json
+*.png
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
