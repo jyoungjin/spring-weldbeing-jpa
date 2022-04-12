@@ -1,0 +1,222 @@
+{
+  "pqr_info": {
+    "company": "S&T",
+    "original_file_name": "GT-0404-TUA001.pdf",
+    "pqr_no": "QGT-0404-A02A",
+    "date": "2003.10.11",
+    "wps_no": "GT-0404-A02A",
+    "welding_process1": "GTAW",
+    "welding_process2": "",
+    "welding_process3": "",
+    "type": "MANUAL"
+  },
+  "joint_design": {
+    "root_face": "",
+    "root_opening": "",
+    "groove_angle": "60°"
+  },
+  "welding_parameters": [
+    {
+      "bead_no": "1",
+      "process": "GTAW",
+      "electrode": "ER80S-B2",
+      "size(mm)": "2.4",
+      "amp(A)": "119~124",
+      "volt(V)": "11.4~13",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "2",
+      "process": "GTAW",
+      "electrode": "ER80S-B2",
+      "size(mm)": "2.4",
+      "amp(A)": "119~124",
+      "volt(V)": "11.4~13",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "3",
+      "process": "GTAW",
+      "electrode": "ER80S-B2",
+      "size(mm)": "2.4",
+      "amp(A)": "123~125",
+      "volt(V)": "13.2~14",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "4",
+      "process": "GTAW",
+      "electrode": "ER80S-B2",
+      "size(mm)": "2.4",
+      "amp(A)": "123~125",
+      "volt(V)": "13.2~14",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "5",
+      "process": "GTAW",
+      "electrode": "ER80S-B2",
+      "size(mm)": "2.4",
+      "amp(A)": "123~125",
+      "volt(V)": "13.2~14",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "6",
+      "process": "GTAW",
+      "electrode": "ER80S-B2",
+      "size(mm)": "2.4",
+      "amp(A)": "124~128",
+      "volt(V)": "13.5~16",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    }
+  ],
+  "base_metals": {
+    "material_spec": "SA387",
+    "to_material_spec": "SA387",
+    "type_and_grade": "Gr.11 CL2",
+    "to_type_and_grade": "Gr.11 CL2",
+    "p_no": "4",
+    "gr_no": "1",
+    "to_p_no": "4",
+    "to_gr_no": "1",
+    "thickness_of_test_coupon": "6mm",
+    "to_thickness_of_test_coupon": "6mm",
+    "diameter_of_test_coupon": "N/A",
+    "max_thickness_per_pass": "3mm"
+  },
+  "filler_metals": {
+    "sfa_specification": "5.28",
+    "aws_classification": "ER80S-B2",
+    "weld_metal_analysis_a_no": "3",
+    "size_of_electrode": "2.4mm",
+    "filler_metal_f_no": "6",
+    "deposit_weld_metal": "6mm",
+    "type_of_filler_metal": "SOLID"
+  },
+  "position": {
+    "position_of_groove": "3G",
+    "weld_progression": "UPHILL",
+    "other": "NONE"
+  },
+  "preheat": {
+    "preheat_temp": "150°C",
+    "interpass_temp": "300°C",
+    "other": "NONE"
+  },
+  "postweld_heat_treatment": {
+    "temperature": "610~629°C",
+    "time": "2hr 9min",
+    "other": "REPORT NO.PQ-PED-002"
+  },
+  "gas": {
+    "shielding": {
+      "gas": "Argon",
+      "percent_composition": "WELDING GRADE",
+      "flow_rate": "15~20l/min"
+    },
+    "trailing": {
+      "gas": "NONE",
+      "percent_composition": "NONE",
+      "flow_rate": "NONE"
+    },
+    "backing": {
+      "gas": "NONE",
+      "percent_composition": "NONE",
+      "flow_rate": "NONE"
+    }
+  },
+  "electrical_characterisitics": {
+    "current": "DC",
+    "polarity": "EN(STRAIGHT)",
+    "tungsten_electrode_type": "EWTh-2",
+    "tungsten_electrode_size": "2.4mm",
+    "transfer_mode": "",
+    "heat_input": "N/A"
+  },
+  "technique": {
+    "string_or_weave_bead": "STRING OR WEAVE BEAD",
+    "oscillation": "N/A",
+    "multiples_or_singlepass": "MULTIPASS",
+    "single_or_multiple_electrodes": "SINGLE",
+    "closed_to_out_chamber": "",
+    "use_of_thermal_process": "",
+    "others": "N/A"
+  },
+  "tensile_tests": {
+    "report_no": "SY-PQT-05",
+    "values": [
+      {
+        "specimen_no": "SY-TS-0404-5A",
+        "width(mm)": "19",
+        "thickness(mm)": "6",
+        "cross_sec_area(mm^2)": "114",
+        "ultimate_total_load(kg)": "7975",
+        "tensile_strength(ksi)": "99.5",
+        "type_of_failure_and_location": "DUCTILE, B.M"
+      },
+      {
+        "specimen_no": "2",
+        "width(mm)": "19",
+        "thickness(mm)": "6",
+        "cross_sec_area(mm^2)": "114",
+        "ultimate_total_load(kg)": "8050",
+        "tensile_strength(ksi)": "100.4",
+        "type_of_failure_and_location": "DUCTILE, B.M"
+      }
+    ]
+  },
+  "guided_bend_tests": {
+    "report_no": "SY-PQT-05",
+    "values": [
+      {
+        "type_and_figure": "SY-FB-0404-5A",
+        "result": "ACCEPTABLE"
+      },
+      {
+        "type_and_figure": "SY-FB-0404-5B",
+        "result": "ACCEPTABLE"
+      },
+      {
+        "type_and_figure": "SY-RB-0404-5A",
+        "result": "ACCEPTABLE"
+      },
+      {
+        "type_and_figure": "SY-RB-0404-5B",
+        "result": "ACCEPTABLE"
+      }
+    ]
+  },
+  "notch_toughness_tests": {
+    "report_no": "N/A",
+    "values": [
+      {
+        "specimen_no": "",
+        "notch_location": "",
+        "notch_type": "",
+        "test_temp(°C)": "",
+        "impact_values(J)": "",
+        "lateral_exp": {
+          "shear": "",
+          "mm": ""
+        },
+        "drop_weight": {
+          "break": "",
+          "no_break": ""
+        }
+      }
+    ]
+  },
+  "fillet_weld_tests": {
+    "report_no": "N/A",
+    "result_satisfactory": "",
+    "penetration_into_parent_metal": "",
+    "macro_result": ""
+  }
+}

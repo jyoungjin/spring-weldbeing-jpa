@@ -1,0 +1,428 @@
+{
+  "pqr_info": {
+    "company": "S&T",
+    "original_file_name": "GTFC-0404-TUA001.pdf",
+    "pqr_no": "QGTFC-0404-A12A",
+    "date": "2003.10.11",
+    "wps_no": "GTFC-0404-A02A",
+    "welding_process1": "GTAW",
+    "welding_process2": "FCAW",
+    "welding_process3": "",
+    "type": "MANUAL+SEMI-AUTO"
+  },
+  "joint_design": {
+    "root_face": "",
+    "root_opening": "",
+    "groove_angle": "60°"
+  },
+  "welding_parameters": [
+    {
+      "bead_no": "1",
+      "process": "GTAW",
+      "electrode": "ER80S-B2",
+      "size(mm)": "2.4",
+      "amp(A)": "125~130",
+      "volt(V)": "12~13",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "2",
+      "process": "GTAW",
+      "electrode": "ER80S-B2",
+      "size(mm)": "2.4",
+      "amp(A)": "140~160",
+      "volt(V)": "14~15",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "3",
+      "process": "GTAW",
+      "electrode": "ER80S-B2",
+      "size(mm)": "2.4",
+      "amp(A)": "140~160",
+      "volt(V)": "14~15",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "4",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "160~175",
+      "volt(V)": "26~27",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "5",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "170~182",
+      "volt(V)": "25~28",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "6",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "170~182",
+      "volt(V)": "25~28",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "7",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "170~182",
+      "volt(V)": "25~28",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "8",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "170~182",
+      "volt(V)": "25~28",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "9",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "170~182",
+      "volt(V)": "25~28",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "10",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "180~200",
+      "volt(V)": "27~31",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "11",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "180~200",
+      "volt(V)": "27~31",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "12",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "180~200",
+      "volt(V)": "27~31",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "13",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "180~200",
+      "volt(V)": "27~31",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "14",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "178~203",
+      "volt(V)": "26~30",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "15",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "178~203",
+      "volt(V)": "26~30",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    },
+    {
+      "bead_no": "16",
+      "process": "FCAW",
+      "electrode": "E81T1-B2",
+      "size(mm)": "1.2",
+      "amp(A)": "178~203",
+      "volt(V)": "26~30",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": ""
+    }
+  ],
+  "base_metals": {
+    "material_spec": "SA387",
+    "to_material_spec": "SA387",
+    "type_and_grade": "Gr.11 CL2",
+    "to_type_and_grade": "Gr.11 CL2",
+    "p_no": "4",
+    "gr_no": "1",
+    "to_p_no": "4",
+    "to_gr_no": "1",
+    "thickness_of_test_coupon": "38mm",
+    "to_thickness_of_test_coupon": "38mm",
+    "diameter_of_test_coupon": "N/A",
+    "to_diameter_of_test_coupon": "N/A",
+    "max_thickness_per_pass": {
+      "GTAW": "3mm",
+      "FCAW": "10mm"
+    }
+  },
+  "filler_metals": {
+    "sfa_specification": {
+      "GTAW": "5.28",
+      "FCAW": "5.29"
+    },
+    "aws_classification": {
+      "GTAW": "ER80S-B2",
+      "FCAW": "E81T1-B2"
+    },
+    "weld_metal_analysis_a_no": {
+      "GTAW": "3",
+      "FCAW": "3"
+    },
+    "size_of_electrode": {
+      "GTAW": "2.4mm",
+      "FCAW": "1.2mm"
+    },
+    "filler_metal_f_no": {
+      "GTAW": "6",
+      "FCAW": "6"
+    },
+    "deposit_weld_metal": {
+      "GTAW": "8mm",
+      "FCAW": "30mm"
+    },
+    "type_of_filler_metal": {
+      "GTAW": "SOLID",
+      "FCAW": "FLUX CORED"
+    }
+  },
+  "position": {
+    "position_of_groove": "3G",
+    "weld_progression": "UP-HILL",
+    "other": "NONE"
+  },
+  "preheat": {
+    "preheat_temp": "150°C",
+    "interpass_temp": "300°C",
+    "other": "NONE"
+  },
+  "postweld_heat_treatment": {
+    "temperature": "610~629°C",
+    "time": "2hr 9min",
+    "other": "REPORT No: PQ-PED-002"
+  },
+  "gas": {
+    "shielding": {
+      "gas": {
+        "GTAW": "ARGON",
+        "FCAW": "CO2"
+      },
+      "percent_composition": {
+        "GTAW": "WELDING GRADE",
+        "FCAW": "99.99%"
+      },
+      "flow_rate": {
+        "GTAW": "10~15l/min",
+        "FCAW": "20~25l/min"
+      }
+    },
+    "trailing": {
+      "gas": {
+        "GTAW": "N/A",
+        "FCAW": "N/A"
+      },
+      "percent_composition": {
+        "GTAW": "N/A",
+        "FCAW": "N/A"
+      },
+      "flow_rate": {
+        "GTAW": "N/A",
+        "FCAW": "N/A"
+      }
+    },
+    "backing": {
+      "gas": {
+        "GTAW": "None",
+        "FCAW": "None"
+      },
+      "percent_composition": {
+        "GTAW": "None",
+        "FCAW": "None"
+      },
+      "flow_rate": {
+        "GTAW": "None",
+        "FCAW": "None"
+      }
+    }
+  },
+  "electrical_characterisitics": {
+    "current": {
+      "GTAW": "DC",
+      "FCAW": "DC"
+    },
+    "polarity": {
+      "GTAW": "EN(STRAIGHT)",
+      "FCAW": "EP(REVERSE)"
+    },
+    "transfer_mode": {
+      "GTAW": "N/A",
+      "FCAW": "Spray Arc"
+    },
+    "heat_input": {
+      "GTAW": "N/A",
+      "FCAW": "N/A"
+    },
+    "tungsten_electrode_type": {
+      "GTAW": "EWTh-2",
+      "SAW": ""
+    },
+    "tungsten_electrode_size": {
+      "GTAW": "2.4mm",
+      "SAW": ""
+    }
+  },
+  "technique": {
+    "string_or_weave_bead": {
+      "GTAW": "STRING OR WEAVE BEAD",
+      "FCAW": "STRING OR WEAVE BEAD"
+    },
+    "oscillation": {
+      "GTAW": "N/A",
+      "FCAW": "N/A"
+    },
+    "multiples_or_singlepass": {
+      "GTAW": "MULTIPASS",
+      "FCAW": "MULTIPASS"
+    },
+    "single_or_multiple_electrodes": {
+      "GTAW": "SINGLE",
+      "FCAW": "SINGLE"
+    },
+    "closed_to_out_chamber": {
+      "GTAW": "",
+      "FCAW": ""
+    },
+    "use_of_thermal_process": {
+      "GTAW": "",
+      "FCAW": ""
+    },
+    "others": ""
+  },
+  "tensile_tests": {
+    "report_no": "SY-PQT-06",
+    "values": [
+      {
+        "specimen_no": "SY-TS-0404-6A",
+        "width(mm)": "19",
+        "thickness(mm)": "18.9",
+        "cross_sec_area(mm^2)": "359.1",
+        "ultimate_total_load(kg)": "21200",
+        "tensile_strength(ksi)": "83.9",
+        "type_of_failure_and_location": "DUCTILE, B.M"
+      },
+      {
+        "specimen_no": "SY-TS-0404-6B",
+        "width(mm)": "19",
+        "thickness(mm)": "18",
+        "cross_sec_area(mm^2)": "342",
+        "ultimate_total_load(kg)": "21345",
+        "tensile_strength(ksi)": "88.8",
+        "type_of_failure_and_location": "DUCTILE, B.M"
+      },
+      {
+        "specimen_no": "SY-TS-0404-6C",
+        "width(mm)": "19",
+        "thickness(mm)": "18.6",
+        "cross_sec_area(mm^2)": "353.4",
+        "ultimate_total_load(kg)": "21350",
+        "tensile_strength(ksi)": "85.9",
+        "type_of_failure_and_location": "DUCTILE, B.M"
+      },
+      {
+        "specimen_no": "SY-TS-0404-6D",
+        "width(mm)": "19",
+        "thickness(mm)": "19",
+        "cross_sec_area(mm^2)": "361",
+        "ultimate_total_load(kg)": "21250",
+        "tensile_strength(ksi)": "83.7",
+        "type_of_failure_and_location": "DUCTILE, B.M"
+      }
+    ]
+  },
+  "guided_bend_tests": {
+    "report_no": "SY-PQT-06",
+    "values": [
+      {
+        "type_and_figure": "SY-SB-0404-6A",
+        "result": "ACCEPTABLE"
+      },
+      {
+        "type_and_figure": "SY-SB-0404-6B",
+        "result": "ACCEPTABLE"
+      },
+      {
+        "type_and_figure": "SY-SB-0404-6C",
+        "result": "ACCEPTABLE"
+      },
+      {
+        "type_and_figure": "SY-SB-0404-6D",
+        "result": "ACCEPTABLE"
+      }
+    ]
+  },
+  "toughness_tests": {
+    "report_no": "N/A",
+    "values": [
+      {
+        "specimen_no": "",
+        "notch_location": "",
+        "notch_type": "",
+        "test_temp(°C)": "",
+        "impact_value(J)": "",
+        "lateral_exp": {
+          "shear": "",
+          "mm": ""
+        },
+        "drop_weight": {
+          "break": "",
+          "no_break": ""
+        }
+      }
+    ]
+  },
+  "fillet_weld_tests": {
+    "report_no": "N/A",
+    "result_satisfactory": "",
+    "penetration_into_parent_metal": "",
+    "macro_result": ""
+  }
+}

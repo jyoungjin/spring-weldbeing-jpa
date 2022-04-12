@@ -1,0 +1,36 @@
+{{>layout/header}}
+    <h1>PQR List</h1>
+    <div class="col-md-12">
+<!--        <div class="row">-->
+<!--            <div class="col-md-6">-->
+<!--                <a href="/posts/save" role="button" class="btn btn-primary">PQR 등록</a>-->
+<!--            </div>-->
+<!--        </div>-->
+        <br>
+        <!-- 목록 출력 영역 -->
+        <table class="table table-horizontal table-bordered">
+            <thead class="thead-strong">
+            <tr>
+                <th>id</th>
+                <th>회사</th>
+                <th>PQR NO</th>
+                <th>WPS NO</th>
+                <th>WPS 개정번호</th>
+                <th>파일명</th>
+            </tr>
+            </thead>
+            <tbody id="tbody">
+            {{#pqrInfoList}}
+                <tr>
+                    <td>{{id}}</td>
+                    <td>{{company}}</td>
+                    <td><a href="/posts/update/{{id}}">{{pqrNo}}</a></td>
+                    <td>{{wpsNo}}</td>
+                    <td>{{wpsRevNo}}</td>
+                    <td>{{originFileName}}</td>
+                </tr>
+            {{/pqrInfoList}}
+            </tbody>
+        </table>
+    </div>
+{{>layout/footer}}

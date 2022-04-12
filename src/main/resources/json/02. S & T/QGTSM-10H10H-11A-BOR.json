@@ -1,0 +1,513 @@
+{
+  "pqr_info": {
+    "company": "S&T",
+    "original_file_name": "QGTSM-10H10H-11A-BOR-XXX.pdf",
+    "pqr_no": "QGTSM-10H10H-11A-BOR",
+    "date": "2010.06.23",
+    "wps_no": "D-GTSM-10H10H-11A-BOR",
+    "welding_process1": "GTAW",
+    "welding_process2": "SMAW",
+    "welding_process3": "",
+    "type": "MANUAL"
+  },
+  "joint_design": {
+    "root_face": "",
+    "root_opening": "",
+    "groove_angle": ""
+  },
+  "welding_parameters": [
+    {
+      "action": "1st Gouging"
+    },
+    {
+      "bead_no": "1",
+      "process": "GTAW",
+      "electrode": "ER2209",
+      "size(mm)": "2.4",
+      "amp(A)": "106",
+      "volt(V)": "13",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "1.96"
+    },
+    {
+      "bead_no": "2",
+      "process": "GTAW",
+      "electrode": "ER2209",
+      "size(mm)": "2.4",
+      "amp(A)": "118",
+      "volt(V)": "15",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "2.16"
+    },
+    {
+      "bead_no": "3",
+      "process": "SMAW",
+      "electrode": "E2209-16",
+      "size(mm)": "4.0",
+      "amp(A)": "120",
+      "volt(V)": "27",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "3.18"
+    },
+    {
+      "bead_no": "4",
+      "process": "SMAW",
+      "electrode": "E2209-16",
+      "size(mm)": "4.0",
+      "amp(A)": "135",
+      "volt(V)": "26",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "2.56"
+    },
+    {
+      "bead_no": "5",
+      "process": "SMAW",
+      "electrode": "E2209-16",
+      "size(mm)": "4.0",
+      "amp(A)": "141",
+      "volt(V)": "28",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "2.57"
+    },
+    {
+      "bead_no": "6",
+      "process": "SMAW",
+      "electrode": "E2209-16",
+      "size(mm)": "4.0",
+      "amp(A)": "128",
+      "volt(V)": "28",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "2.28"
+    },
+    {
+      "bead_no": "7",
+      "process": "SMAW",
+      "electrode": "E2209-16",
+      "size(mm)": "4.0",
+      "amp(A)": "138",
+      "volt(V)": "24",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "2.31"
+    },
+    {
+      "bead_no": "8",
+      "process": "SMAW",
+      "electrode": "E2209-16",
+      "size(mm)": "4.0",
+      "amp(A)": "135",
+      "volt(V)": "26",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "2.66"
+    },
+    {
+      "bead_no": "9",
+      "process": "SMAW",
+      "electrode": "E2209-16",
+      "size(mm)": "4.0",
+      "amp(A)": "129",
+      "volt(V)": "25",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "2.35"
+    },
+    {
+      "action": "2nd Gouging"
+    },
+    {
+      "bead_no": "1",
+      "process": "SMAW",
+      "electrode": "E2209-16",
+      "size(mm)": "4.0",
+      "amp(A)": "129",
+      "volt(V)": "27",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "2.64"
+    },
+    {
+      "bead_no": "2",
+      "process": "SMAW",
+      "electrode": "E2209-16",
+      "size(mm)": "4.0",
+      "amp(A)": "132",
+      "volt(V)": "26",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "2.42"
+    },
+    {
+      "bead_no": "3",
+      "process": "SMAW",
+      "electrode": "E2209-16",
+      "size(mm)": "4.0",
+      "amp(A)": "129",
+      "volt(V)": "27",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "2.24"
+    },
+    {
+      "bead_no": "4",
+      "process": "SMAW",
+      "electrode": "E2209-16",
+      "size(mm)": "4.0",
+      "amp(A)": "134",
+      "volt(V)": "25",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "2.42"
+    },
+    {
+      "bead_no": "5",
+      "process": "SMAW",
+      "electrode": "E2209-16",
+      "size(mm)": "4.0",
+      "amp(A)": "142",
+      "volt(V)": "24",
+      "speed(mm/min)": "",
+      "heat_input(kJ/mm)": "2.69"
+    }
+  ],
+  "base_metals": {
+    "material_spec": "SA240",
+    "to_material_spec": "SA240",
+    "type_and_grade": "S31803",
+    "to_type_and_grade": "S31803",
+    "p_no": "10H",
+    "gr_no": "1",
+    "to_p_no": "10H",
+    "to_gr_no": "1",
+    "thickness_of_test_coupon": "24mm",
+    "to_thickness_of_test_coupon": "24mm",
+    "diameter_of_test_coupon": "N/A",
+    "max_thickness_per_pass": {
+      "GTAW": "2mm",
+      "SMAW": "6mm"
+    }
+  },
+  "filler_metals": {
+    "sfa_specification": {
+      "GTAW": "5.9",
+      "SMAW": "5.4"
+    },
+    "aws_classification": {
+      "GTAW": "ER2209",
+      "SMAW": "E2209-16"
+    },
+    "weld_metal_analysis_a_no": {
+      "GTAW": "8",
+      "SMAW": "8"
+    },
+    "size_of_electrode": {
+      "GTAW": "2.4mm",
+      "SMAW": ""
+    },
+    "filler_metal_f_no": {
+      "GTAW": "6",
+      "SMAW": "5"
+    },
+    "deposit_weld_metal": {
+      "GTAW": "4mm",
+      "SMAW": "16mm"
+    },
+    "type_of_filler_metal": {
+      "GTAW": "SOLID",
+      "SMAW": ""
+    }
+  },
+  "position": {
+    "position_of_groove": {
+      "GTAW": "3G",
+      "SMAW": "3G"
+    },
+    "weld_progression": "UPHILL",
+    "other": {
+      "GTAW": "ST-2209(HYUNDAI):1822514746",
+      "SMAW": "E2205(AVESTA):08068"
+    }
+  },
+  "preheat": {
+    "preheat_temp": "16°C",
+    "interpass_temp": "Max. 120°C",
+    "other": "NONE"
+  },
+  "postweld_heat_treatment": {
+    "temperature": "N/A",
+    "time": "N/A",
+    "other": "N/A"
+  },
+  "gas": {
+    "shielding": {
+      "gas": {
+        "GTAW": "Argon",
+        "SMAW": "N/A"
+      },
+      "percent_composition": {
+        "GTAW": "WELDING GRADE",
+        "SMAW": "N/A"
+      },
+      "flow_rate": {
+        "GTAW": "15~20l/min",
+        "SMAW": "N/A"
+      }
+    },
+    "trailing": {
+      "gas": {
+        "GTAW": "NONE",
+        "SMAW": "N/A"
+      },
+      "percent_composition": {
+        "GTAW": "NONE",
+        "SMAW": "N/A"
+      },
+      "flow_rate": {
+        "GTAW": "NONE",
+        "SMAW": "N/A"
+      }
+    },
+    "backing": {
+      "gas": {
+        "GTAW": "Argon",
+        "SMAW": "N/A"
+      },
+      "percent_composition": {
+        "GTAW": "WELDING GRADE",
+        "SMAW": "N/A"
+      },
+      "flow_rate": {
+        "GTAW": "20~25l/min",
+        "SMAW": "N/A"
+      }
+    }
+  },
+  "electrical_characterisitics": {
+    "current": {
+      "GTAW": "DC",
+      "SMAW": "DC"
+    },
+    "polarity": {
+      "GTAW": "EN",
+      "SMAW": "EP"
+    },
+    "transfer_mode": "N/A",
+    "heat_input": {
+      "GTAW": "2.16kj/mm",
+      "SMAW": "3.18kj/mm"
+    },
+    "tungsten_electrode_type": {
+      "GTAW": "EWTh-2"
+    },
+    "tungsten_electrode_size": {
+      "GTAW": "3.2mm"
+    }
+  },
+  "technique": {
+    "string_or_weave_bead": {
+      "GTAW": "BOTH",
+      "SMAW": "BOTH"
+    },
+    "oscillation": "N/A",
+    "multiples_or_singlepass": {
+      "GTAW": "MULTIPLES",
+      "SMAW": "MULTIPLES"
+    },
+    "single_or_multiple_electrodes": {
+      "GTAW": "SINGLE",
+      "SMAW": "SINGLE"
+    },
+    "closed_to_out_chamber": {
+      "GTAW": "NONE",
+      "SMAW": "N/A"
+    },
+    "use_of_thermal_process": {
+      "GTAW": "NONE",
+      "SMAW": "N/A"
+    },
+    "others": ""
+  },
+  "tensile_tests": {
+    "report_no": "YST10-0621-04A",
+    "values": [
+      {
+        "specimen_no": "A1",
+        "width(mm)": "19.18",
+        "thickness(mm)": "24.05",
+        "cross_sec_area(mm^2)": "461.3",
+        "yield_strength(Mpa)": "658",
+        "tensile_strength(Mpa)": "813",
+        "type_of_failure_and_location": "DUCTILE,B.M"
+      },
+      {
+        "specimen_no": "A2",
+        "width(mm)": "19.09",
+        "thickness(mm)": "24.33",
+        "cross_sec_area(mm^2)": "464.5",
+        "yield_strength(Mpa)": "677",
+        "tensile_strength(Mpa)": "815",
+        "type_of_failure_and_location": "DUCTILE,B.M"
+      }
+    ]
+  },
+  "guided_bend_tests": {
+    "report_no": "YST10-0621-04A",
+    "values": [
+      {
+        "type_and_figure": "SIDE BEND(QW462.2)/SB-1",
+        "result": "ACCEPT"
+      },
+      {
+        "type_and_figure": "SIDE BEND(QW462.2)/SB-2",
+        "result": "ACCEPT"
+      },
+      {
+        "type_and_figure": "SIDE BEND(QW462.2)/SB-3",
+        "result": "ACCEPT"
+      },
+      {
+        "type_and_figure": "SIDE BEND(QW462.2)/SB-4",
+        "result": "ACCEPT"
+      }
+    ]
+  },
+  "notch_toughness_tests": {
+    "report_no": "YST10-0621-04A",
+    "values": [
+      {
+        "specimen_no": "W1",
+        "notch_location": "WELD",
+        "notch_type": "2mmV",
+        "test_temp(°C)": "-46",
+        "impact_values(J)": "47",
+        "lateral_exp": {
+          "shear": "39",
+          "mm": "0.52"
+        },
+        "drop_weight": {
+          "break": "",
+          "no_break": ""
+        }
+      },
+      {
+        "specimen_no": "W2",
+        "notch_location": "WELD",
+        "notch_type": "2mmV",
+        "test_temp(°C)": "-46",
+        "impact_values(J)": "49",
+        "lateral_exp": {
+          "shear": "47",
+          "mm": "0.68"
+        },
+        "drop_weight": {
+          "break": "",
+          "no_break": ""
+        }
+      },
+      {
+        "specimen_no": "W3",
+        "notch_location": "WELD",
+        "notch_type": "2mmV",
+        "test_temp(°C)": "-46",
+        "impact_values(J)": "47",
+        "lateral_exp": {
+          "shear": "47",
+          "mm": "0.5"
+        },
+        "drop_weight": {
+          "break": "",
+          "no_break": ""
+        }
+      },
+      {
+        "specimen_no": "H1",
+        "notch_location": "HAZ",
+        "notch_type": "2mmV",
+        "test_temp(°C)": "-46",
+        "impact_values(J)": "87",
+        "lateral_exp": {
+          "shear": "62",
+          "mm": "1.02"
+        },
+        "drop_weight": {
+          "break": "",
+          "no_break": ""
+        }
+      },
+      {
+        "specimen_no": "H2",
+        "notch_location": "HAZ",
+        "notch_type": "2mmV",
+        "test_temp(°C)": "-46",
+        "impact_values(J)": "126",
+        "lateral_exp": {
+          "shear": "69",
+          "mm": "1.35"
+        },
+        "drop_weight": {
+          "break": "",
+          "no_break": ""
+        }
+      },
+      {
+        "specimen_no": "H3",
+        "notch_location": "HAZ",
+        "notch_type": "2mmV",
+        "test_temp(°C)": "-46",
+        "impact_values(J)": "82",
+        "lateral_exp": {
+          "shear": "66",
+          "mm": "0.9"
+        },
+        "drop_weight": {
+          "break": "",
+          "no_break": ""
+        }
+      },
+      {
+        "specimen_no": "B1",
+        "notch_location": "BASE",
+        "notch_type": "2mmV",
+        "test_temp(°C)": "-46",
+        "impact_values(J)": "201",
+        "lateral_exp": {
+          "shear": "75",
+          "mm": "1.92"
+        },
+        "drop_weight": {
+          "break": "",
+          "no_break": ""
+        }
+      },
+      {
+        "specimen_no": "B2",
+        "notch_location": "BASE",
+        "notch_type": "2mmV",
+        "test_temp(°C)": "-46",
+        "impact_values(J)": "232",
+        "lateral_exp": {
+          "shear": "82",
+          "mm": "1.2"
+        },
+        "drop_weight": {
+          "break": "",
+          "no_break": ""
+        }
+      },
+      {
+        "specimen_no": "B3",
+        "notch_location": "BASE",
+        "notch_type": "2mmV",
+        "test_temp(°C)": "-46",
+        "impact_values(J)": "24",
+        "lateral_exp": {
+          "shear": "80",
+          "mm": "2.32"
+        },
+        "drop_weight": {
+          "break": "",
+          "no_break": ""
+        }
+      }
+    ]
+  },
+  "fillet_weld_tests": {
+    "report_no": "N/A",
+    "result_satisfactory": "",
+    "penetration_into_parent_metal": "",
+    "macro_result": ""
+  }
+}

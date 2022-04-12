@@ -1,0 +1,250 @@
+{
+  "pqr_info": {
+    "company": "S&T",
+    "original_file_name": "QG-0108-002---.pdf",
+    "pqr_no": "QG-0108-002",
+    "date": "2012.09.04",
+    "wps_no": "G-0108-002",
+    "welding_process1": "GTAW",
+    "welding_process2": "",
+    "welding_process3": "",
+    "type": "MANUAL"
+  },
+  "joint_design": {
+    "root_face": "",
+    "root_opening": "",
+    "groove_angle": "60°"
+  },
+  "welding_parameters": [
+    {
+      "bead_no": "1",
+      "process": "GTAW",
+      "electrode": "ERNiCrMo-3",
+      "size(mm)": "2.4",
+      "amp(A)": "138",
+      "volt(V)": "12",
+      "speed(mm/min)": "54",
+      "heat_input(kJ/mm)": "1.84"
+    },
+    {
+      "bead_no": "2",
+      "process": "GTAW",
+      "electrode": "ERNiCrMo-3",
+      "size(mm)": "2.4",
+      "amp(A)": "142",
+      "volt(V)": "14",
+      "speed(mm/min)": "62",
+      "heat_input(kJ/mm)": "1.92"
+    },
+    {
+      "bead_no": "3",
+      "process": "GTAW",
+      "electrode": "ERNiCrMo-3",
+      "size(mm)": "2.4",
+      "amp(A)": "152",
+      "volt(V)": "14",
+      "speed(mm/min)": "78",
+      "heat_input(kJ/mm)": "1.63"
+    },
+    {
+      "bead_no": "4",
+      "process": "GTAW",
+      "electrode": "ERNiCrMo-3",
+      "size(mm)": "2.4",
+      "amp(A)": "156",
+      "volt(V)": "15",
+      "speed(mm/min)": "82",
+      "heat_input(kJ/mm)": "1.71"
+    },
+    {
+      "bead_no": "5",
+      "process": "GTAW",
+      "electrode": "ERNiCrMo-3",
+      "size(mm)": "2.4",
+      "amp(A)": "157",
+      "volt(V)": "15",
+      "speed(mm/min)": "81",
+      "heat_input(kJ/mm)": "1.74"
+    },
+    {
+      "bead_no": "6",
+      "process": "GTAW",
+      "electrode": "ERNiCrMo-3",
+      "size(mm)": "2.4",
+      "amp(A)": "158",
+      "volt(V)": "15",
+      "speed(mm/min)": "83",
+      "heat_input(kJ/mm)": "1.71"
+    },
+    {
+      "bead_no": "7",
+      "process": "GTAW",
+      "electrode": "ERNiCrMo-3",
+      "size(mm)": "2.4",
+      "amp(A)": "156",
+      "volt(V)": "16",
+      "speed(mm/min)": "85",
+      "heat_input(kJ/mm)": "1.76"
+    },
+    {
+      "bead_no": "8",
+      "process": "GTAW",
+      "electrode": "ERNiCrMo-3",
+      "size(mm)": "2.4",
+      "amp(A)": "155",
+      "volt(V)": "16",
+      "speed(mm/min)": "72",
+      "heat_input(kJ/mm)": "2.06"
+    },
+    {
+      "bead_no": "9",
+      "process": "GTAW",
+      "electrode": "ERNiCrMo-3",
+      "size(mm)": "2.4",
+      "amp(A)": "156",
+      "volt(V)": "15",
+      "speed(mm/min)": "75",
+      "heat_input(kJ/mm)": "1.87"
+    }
+  ],
+  "base_metals": {
+    "material_spec": "SA516",
+    "to_material_spec": "SA240",
+    "type_and_grade": "60",
+    "to_type_and_grade": "Gr.TP304L",
+    "p_no": "1",
+    "gr_no": "1",
+    "to_p_no": "8",
+    "to_gr_no": "1",
+    "thickness_of_test_coupon": "18mm",
+    "to_thickness_of_test_coupon": "12mm",
+    "diameter_of_test_coupon": "N/A",
+    "max_thickness_per_pass": "2mm"
+  },
+  "filler_metals": {
+    "sfa_specification": "5.14",
+    "aws_classification": "ERNiCrMo-3",
+    "weld_metal_analysis_a_no": "-",
+    "size_of_electrode": "2.4mm",
+    "filler_metal_f_no": "43",
+    "deposit_weld_metal": "12mm",
+    "type_of_filler_metal": "SOLID (BARE)"
+  },
+  "position": {
+    "position_of_groove": "1G",
+    "weld_progression": "-",
+    "other": "SMT-625 (HYUNDAI)"
+  },
+  "preheat": {
+    "preheat_temp": "10°C",
+    "interpass_temp": "Max. 159°C",
+    "other": "NONE"
+  },
+  "postweld_heat_treatment": {
+    "temperature": "633~643°C",
+    "time": "1hr 44min",
+    "other": "Report No. PWHT-SP-07"
+  },
+  "gas": {
+    "shielding": {
+      "gas": "ARGON",
+      "percent_composition": "99.99%",
+      "flow_rate": "15~20l/min"
+    },
+    "trailing": {
+      "gas": "NONE",
+      "percent_composition": "NONE",
+      "flow_rate": "NONE"
+    },
+    "backing": {
+      "gas": "ARGON",
+      "percent_composition": "99.99%",
+      "flow_rate": "15~20l/min"
+    }
+  },
+  "electrical_characterisitics": {
+    "current": "DC",
+    "polarity": "EN",
+    "transfer_mode": "N/A",
+    "heat_input": "NONE"
+  },
+  "technique": {
+    "string_or_weave_bead": "BOTH",
+    "oscillation": "NONE",
+    "multiples_or_singlepass": "MULTIPLES",
+    "single_or_multiple_electrodes": "SINGLE",
+    "closed_to_out_chamber": "N/A",
+    "use_of_thermal_process": "NONE",
+    "others": "N/A"
+  },
+  "tensile_tests": {
+    "report_no": "YST12-0903-11",
+    "values": [
+      {
+        "specimen_no": "TS-1",
+        "width(mm)": "18.70",
+        "thickness(mm)": "11.92",
+        "cross_sec_area(mm^2)": "222.9",
+        "ultimate_total_load(N)": "105621",
+        "tensile_strength(Mpa)": "469.0",
+        "type_of_failure_and_location": "DUCTILE, B.M, (SA516-60)"
+      },
+      {
+        "specimen_no": "TS-2",
+        "width(mm)": "18.20",
+        "thickness(mm)": "11.95",
+        "cross_sec_area(mm^2)": "217.4",
+        "ultimate_total_load(N)": "109741",
+        "tensile_strength(Mpa)": "478.0",
+        "type_of_failure_and_location": "DUCTILE, B.M, (SA516-60)"
+      }
+    ]
+  },
+  "guided_bend_tests": {
+    "report_no": "YST12-0903-11",
+    "values": [
+      {
+        "type_and_figure": "SB-1 (SIDE BEND)",
+        "result": "NO OPEN DEFECT"
+      },
+      {
+        "type_and_figure": "SB-2 (SIDE BEND)",
+        "result": "NO OPEN DEFECT"
+      },
+      {
+        "type_and_figure": "SB-3 (SIDE BEND)",
+        "result": "NO OPEN DEFECT"
+      },
+      {
+        "type_and_figure": "SB-4 (SIDE BEND)",
+        "result": "NO OPEN DEFECT"
+      }
+    ]
+  },
+  "toughness_tests": {
+    "report_no": "N/A",
+    "values": [
+      {
+        "specimen_no": "-",
+        "notch_location": "-",
+        "notch_type": "-",
+        "test_temp(°C)": "-",
+        "impact_value(J)": "-",
+        "lateral_exp": {
+          "shear": "-",
+          "mm": "-"
+        },
+        "drop_weight": {
+          "break": "-",
+          "no_break": "-"
+        }
+      }
+    ]
+  },
+  "fillet_weld_tests": {
+    "report_no": "N/A",
+    "result_satisfactory": "-",
+    "penetration_into_parent_metal": "-",
+    "macro_result": "-"
+  }
+}
